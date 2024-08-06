@@ -29,7 +29,7 @@ header {
  .profile img {
     width: 120px;
     display: block;
-    margin-left: 0;
+    margin-left: 10;
     margin-right: 0;
  }
  .profile h1 {
